@@ -1,0 +1,41 @@
+h1{
+    color:teal;
+  }
+  
+  body{
+    margin-top:70px;
+    background:#333;
+    color:#fff;
+  }
+  
+  card card-primary mb-2
+  {
+      background-color: blue;
+  }
+  
+  a {
+    display: grid;
+    position: relative;
+    top: rem;
+    align: center;
+  }
+  
+  body
+  {
+    text-align: center;
+  }
+
+
+
+
+img{
+    border-radius:50%;
+    position: absolute;
+    top: 40;
+    bottom: 30;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+  
+  
